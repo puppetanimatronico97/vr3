@@ -3593,7 +3593,7 @@ OpenFrame.Active = true
 OpenFrame.BackgroundColor3 = Color3.new(0.137255, 0.137255, 0.137255)
 OpenFrame.BorderColor3 = Color3.new(0, 0, 0)
 OpenFrame.BorderSizePixel = 3
-OpenFrame.Position = UDim2.new(0, 0, 0, 473)
+OpenFrame.Position = UDim2.new(0, 10, 0, 10)
 OpenFrame.Size = UDim2.new(0, 178, 0, 55)
 
 Open.Name = "Open"
